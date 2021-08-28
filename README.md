@@ -10,4 +10,4 @@ Este diseño ha sido realizado tanto en inglés como en español. Por ello el di
 
 <h1>Diseño Físico en Inglés </h1>
 
-<img src="fisico.svg">
+<img src="Fisico.svg">
