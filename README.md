@@ -1,1 +1,1 @@
-# Base-de-datos-para-el-an-lisis-de-dispositivos.
+# Base-de-datos-para-el-analisis-de-dispositivos.
